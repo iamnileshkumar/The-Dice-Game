@@ -1,0 +1,29 @@
+.container{
+    width: 100vh;
+    margin: auto;
+    text-align: center;
+}
+
+.dice{
+    text-align: center;
+    display: inline-block;
+}
+
+body{
+    background-color:#9BE8D8;
+}
+
+h1{
+    margin: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 6rem;
+}
+
+p{
+    font-size: 2rem;
+    font-family: cursive;
+}
+
+img{
+    width: 60%;
+}
